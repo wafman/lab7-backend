@@ -21,26 +21,26 @@
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
 
-Number and name of feature: 
+Number and name of feature: Refactor
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 9am
 
-Finish time: 
+Finish time: 9:30am
 
-Actual time needed to complete: 
+Actual time needed to complete: 30 minutes
 
 
-Number and name of feature: 
+Number and name of feature: Use api key for location
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 9:30am
 
-Finish time: 
+Finish time: 10:15
 
-Actual time needed to complete: 
+Actual time needed to complete: 45 minutes
 
 
 Number and name of feature: 

@@ -1,6 +1,6 @@
 # lab7-backend
 
-**Author**: Your Name Goes Here
+**Author**: William Fritts and Kent Ketter
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
